@@ -7,5 +7,5 @@
 
 <img src="https://www.studentuniverse.co.uk/blog/wp-content/uploads/2016/06/the-london-eye-landscape-night.jpg" height="200" > |<img src="https://www.superiorwallpapers.com/download/airplane-wing-in-the-sky-wonderful-landscape-1920x1200.jpg" height="200" > |
 --- | --- |
-*[how to center statically in xml or programmatically around certain view.](circular_radar_blog.md)* | *[demonstrate some animation with cutting flight ticket](cut_ticket_view_blog.md )* |
+*[how to center statically in xml or programmatically around certain view.](circular_radar_blog.md)* | *[demonstrate some animation with cutting flight ticket](cut_ticket_view_blog.md)* |
 
