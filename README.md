@@ -9,3 +9,6 @@
 --- | --- |
 *[how to center statically in xml or programmatically around certain view.](circular_radar_blog.md)* | *[demonstrate some animation with cutting flight ticket](cut_ticket_view_blog.md)* |
 
+<img src="https://www.telecomreview.com/images/stories/2019/f-telecom-egypt-1024x1024.jpg" height="200" > |<img src="https://image.slidesharecdn.com/motionlayout-190901150733/95/android-motion-layout-1-638.jpg?cb=1572724767" height="200" > |
+--- | --- |
+*[Create Custom ArcView to contain it's child views ](we_telecom_ui.md)* | *[Playing around with MotionLayout](playing_with_motionlayout.md)* |
